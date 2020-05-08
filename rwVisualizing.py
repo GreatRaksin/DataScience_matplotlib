@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from myPart.randWalk import RandomWalk
+from rw import RandomWalk
 
 # строим случайное блуждание и наносим точки на диаграмму
 rw = RandomWalk()
